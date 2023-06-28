@@ -1,0 +1,35 @@
+11.6 Alanis 2101
+14.0 Avril 2102
+17.8 Adele 2103
+19.0 Amy 2107
+16.4 Arctic 2104
+8.5 Aerosmith 2105
+12.6 Bruno 2106
+15.9 Britney 2108
+13.7 Celine 2109
+6.0 Chris 2110
+18.4 Demi 2113
+18.5 Dua 2117
+15.3 Drake 2116
+7.9 Delacruz 2119
+18.0 Ed 2125
+17.4 Eminem 2128
+12.0 Flora 2130
+5.8 Figthers 2135
+10.5 Gloria 2138
+13.8 Halsey 2142
+15.0 Harry 2146
+15.9 Justin 2148
+19.8 John 2149
+18.6 Lana 2150
+12.8 Laura 2153
+20.0 Marilia 2154
+17.3 Michael 2156
+16.5 Pitty 2158
+11.5 Pablo 2160
+19.7 Rihanna 2163
+9.6 Rita 2165
+10.7 Sam 2166
+5.7 Shania 2167
+
+
